@@ -1,6 +1,6 @@
 export const products = [
   {
-    day:'1',
+    day: "1",
     name: "A5WagYu",
     category: "steak",
     image: "/images/A5Wagyu.jpg",
@@ -11,7 +11,7 @@ export const products = [
     description: "This A5WagYu is divine ,I am just joking",
   },
   {
-    day:'2',
+    day: "2",
     name: "AmericanSteakSet",
     category: "combo",
     image: "/images/AmericanSteakSet.jpg",
@@ -22,7 +22,7 @@ export const products = [
       "The AmericanSteakSet with fries of caramelized peaches is exquisite ,I am just joking",
   },
   {
-    day:'3',
+    day: "3",
     name: "BritishDoubleDessert",
     category: "combo",
     image: "/images/BritishDoubleDessert.jpg",
@@ -32,7 +32,7 @@ export const products = [
     description: "That's great for weekend afternoons",
   },
   {
-    day:'4',
+    day: "4",
     name: "SaladAndCoke",
     category: "SinglePoint",
     image: "/images/SaladAndCoke.jpg",
@@ -42,7 +42,7 @@ export const products = [
     description: "Not bad ",
   },
   {
-    day:'5',
+    day: "5",
     name: "TaiwaneseOyster",
     category: "SinglePoint",
     image: "/images/TaiwaneseOyster.jpg",
